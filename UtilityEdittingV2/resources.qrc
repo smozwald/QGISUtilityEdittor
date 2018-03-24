@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/UtilityEdittingV2" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
